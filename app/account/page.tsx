@@ -1,0 +1,1 @@
+export default function Account(){return <main className="formPage"><section><small>TUSCARA LONDON</small><h1>WELCOME BACK</h1><form><input type="email" placeholder="Email"/><input type="password" placeholder="Password"/><button>SIGN IN</button></form><a>Forgot password?</a><p>Supabase authentication will be connected to this screen.</p></section></main>}
