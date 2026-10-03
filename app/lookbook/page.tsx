@@ -1,0 +1,2 @@
+import Image from 'next/image';
+export default function Lookbook(){return <main className="lookPage"><section><Image src="https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1800&q=90" fill priority sizes="100vw" alt="Fashion lookbook placeholder"/><div/><h1>REAL PEOPLE.<br/>REAL STYLE.</h1></section><article><small>01</small><h2>FORM.<br/>TEXTURE.<br/>ATTITUDE.</h2><p>A magazine-led Tuscara campaign experience. The final page will use the supplied campaign photography.</p></article></main>}
