@@ -1,0 +1,1 @@
+export default function About(){return <main className="story"><small>TUSCARA LONDON</small><h1>TUSCARA<br/>LONDON.</h1><p>Brand history, founding details, sourcing, manufacturing and sustainability claims remain unpublished until verified copy is supplied by Tuscara.</p><section><h2>OUR STORY</h2><p>Editable through the future homepage and brand CMS.</p></section></main>}
